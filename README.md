@@ -6,8 +6,9 @@ The aim of the closed challenge is to create a forensics forensics support syste
 
 
 
-##Requirements##
+## Requirements ##
 1. Project must contain a ```Suspect_Fingerprints``` folder in their directory. This will either be accessed manually or through the program (preferred) by us to add the suspect fingerprint files (.BMP) when testing your program.
 
 2. Project must give the option to add or upload a file -> This will be the ```CrimeScene_Fingerprint.BMP``` file which is the evidence found used to test against the suspect databse.
 
+3. Coming Soon....
