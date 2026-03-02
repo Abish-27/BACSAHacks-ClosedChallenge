@@ -11,4 +11,6 @@ The aim of the closed challenge is to create a forensics forensics support syste
 
 2. Project must give the option to add or upload a file -> This will be the ```CrimeScene_Fingerprint.BMP``` file which is the evidence found used to test against the suspect database.
 
-3. Coming Soon....
+3. Project must give the option to add or upload a file -> This will be the ```CrimeScene_DNA.fasta``` file which is the evidence found used to test against the suspect database.
+
+4. Project must give the option to upload or have directions to add a ```Suspect_DNA.fasta``` file whic contains the sequences of Suspects to compare the evidence against. 
