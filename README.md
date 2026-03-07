@@ -13,4 +13,7 @@ The aim of the closed challenge is to create a forensics forensics support syste
 
 3. Project must give the option to add or upload a file -> This will be the ```CrimeScene_DNA.fasta``` file which is the evidence found used to test against the suspect database.
 
-4. Project must give the option to upload or have directions to add a ```Suspect_DNA.fasta``` file whic contains the sequences of Suspects to compare the evidence against. 
+4. Project must give the option to upload or have directions to add a ```Suspect_DNA.fasta``` file whic contains the sequences of Suspects to compare the evidence against.
+
+5. Include a demo video demonstrating the features of your product and explaining its reasoning. 
+
